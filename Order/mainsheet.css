@@ -1,0 +1,44 @@
+﻿body {
+     background-color: #99FFCC;
+    }
+
+
+span {
+            color: #008000;
+            font-family: Verdana;
+            font-size: large;
+            font-weight: bold;
+            background-color: #CCFFCC;
+            border: thin solid #99FFCC;
+            z-index: 0;
+            left: -2px;
+            top: -8px;
+            position: absolute;
+            height: 18px;
+            width: 77px;
+            right: 814px;
+}
+.button {
+            font-family: "Arial Black";
+            font-weight: bolder;
+            font-size: x-large;
+            color: #CCFFCC;
+            background-color:#006600;
+        }
+
+#form1 {
+            height: 389px;
+            z-index: 1;
+            left: 2px;
+            top: 10px;
+            position: absolute;
+            width: 1000px;
+              border: thin double #008000;
+        }
+input[type ="text"]{
+            font-family: Castellar;
+            font-size: large;
+            color: #006600;
+            font-weight: bold;
+            background-color: #CCFFCC;
+        }     
